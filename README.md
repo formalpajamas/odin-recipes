@@ -1,1 +1,1 @@
-# odin-recipes
+In this project I have created a website for different recipes that I often make. I have created a homepage and three additional pages with the recipes. At this point I am at the beginning of my coding journey and am only using html. I have linked the various pages to the homepage and written out the recipes using different lists and images. 
