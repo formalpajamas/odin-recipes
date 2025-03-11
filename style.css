@@ -1,0 +1,19 @@
+* {
+    font-family: Monaco, "Courier New", monospace;
+}
+
+
+h1 {
+    color: white;
+    background-color: rgb(90, 90, 172);
+}
+
+a {
+    color: rgb(90, 90, 172);
+}
+
+h3,
+h4 {
+    color: rgb(90, 90, 172);
+    font-weight: 500;
+}
